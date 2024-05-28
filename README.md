@@ -7,14 +7,17 @@ This repository contains the code for coding, pretraining, and finetuning a GPT-
 <br>
 <br>
 
-<a href="http://mng.bz/orYv"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg" width="250px"></a>
+<a href="http://mng.bz/orYv"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg?123" width="250px"></a>
 
-In [*Build a Large Language Model (From Scratch)*](http://mng.bz/orYv), you'll discover how LLMs work from the inside out. In this book, I'll guide you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
+<br>
+
+In [*Build a Large Language Model (From Scratch)*](http://mng.bz/orYv), you'll learn and understand how large language models (LLMs) work from the inside out by coding them from the ground up, step by step. In this book, I'll guide you through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
 The method described in this book for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT.
 
 - Link to the official [source code repository](https://github.com/rasbt/LLMs-from-scratch)
-- [Link to the early access version](http://mng.bz/orYv) at Manning
+- [Link to the book at Manning](http://mng.bz/orYv)
+- [Link to the book page on Amazon](https://www.amazon.com/gp/product/1633437167)
 - ISBN 9781633437166
 
 <br>
@@ -90,6 +93,8 @@ Several folders contain optional materials as a bonus for interested readers:
   - [Dataloader Intuition with Simple Numbers](ch02/04_bonus_dataloader-intuition)
 - **Chapter 3:**
   - [Comparing Efficient Multi-Head Attention Implementations](ch03/02_bonus_efficient-multihead-attention/mha-implementations.ipynb)
+- **Chapter 4:**
+  - [FLOPS Analysis](ch04/02_performance-analysis/flops-analysis.ipynb)
 - **Chapter 5:**
   - [Alternative Weight Loading from Hugging Face Model Hub using Transformers](ch05/02_alternative_weight_loading/weight-loading-hf-transformers.ipynb)
   - [Pretraining GPT on the Project Gutenberg Dataset](ch05/03_bonus_pretraining_on_gutenberg)
@@ -98,6 +103,8 @@ Several folders contain optional materials as a bonus for interested readers:
 - **Chapter 6:**
   - [Additional experiments finetuning different layers and using larger models](ch06/02_bonus_additional-experiments)
   - [Finetuning different models on 50k IMDB movie review dataset](ch06/03_bonus_imdb-classification)
+- **Chapter 7:**
+  - [Dataset Utilities for Finding Near Duplicates and Creating Passive Voice Entries](ch07/02_dataset-utilities)
 
 <br>
 &nbsp
